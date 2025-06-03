@@ -15,3 +15,4 @@ Replace the value of `ZSH_THEME` in `~/.zshrc` with `la-vaguelette`.
 
 ![la-vaguelette](./img/la-vaguelette.jpg)
 
+![la-vaguelette](./img/la-vaguelette-2.jpg)
